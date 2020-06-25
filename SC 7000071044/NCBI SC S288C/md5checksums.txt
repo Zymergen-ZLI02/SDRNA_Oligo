@@ -1,0 +1,1 @@
+9c300a773cd734220c236caec92ba4a4  GCA_000146045.2_R64_genomic.gbff.gz
