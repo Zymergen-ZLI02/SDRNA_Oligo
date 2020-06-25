@@ -1,0 +1,546 @@
+RDN18-SDRNA-1
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 23
+Query:      28 GGAAACCT-TGTTACGACTTTTA 49
+               ||||| || ||||||||||||||
+Sbjct:  754054 GGAAAACTATGTTACGACTTTTA 754076
+
+RDN18-SDRNA-4
+gi|330443482|ref|NC_001134.8| Saccharomyces cerevisiae S288C chromosome II, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 25
+Query:       8 AATCAACGCAAGCTGATGACTTGCG 32
+               ||||||   ||| ||||||||||||
+Sbjct:  752221 AATCAA---AAGTTGATGACTTGCG 752200
+
+RDN18-SDRNA-10
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 37 (34 bits), expectation 3.2e-02, alignment length 21
+Query:      34 TTATTGTGTCTGGACCTGGTG 54
+               || ||||||||||||||||||
+Sbjct:  908222 TTGTTGTGTCTGGACCTGGTG 908202
+
+RDN18-SDRNA-10
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 22
+Query:       2 AAATCAAGAAAGAGCTCTCAAT 23
+               |||| ||||||||||| | |||
+Sbjct:  654885 AAATAAAGAAAGAGCTGTAAAT 654864
+
+RDN18-SDRNA-10
+gi|330443715|ref|NC_001146.8| Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 22
+Query:      21 AATCTGTCAATCCTTATTGTGT 42
+               ||| | |||||||||||| |||
+Sbjct:  217140 AATATTTCAATCCTTATTTTGT 217119
+
+RDN18-SDRNA-15
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 33 (31 bits), expectation 3.9e-01, alignment length 29
+Query:      31 TTAGTCTTCAATAAATCCAAGAATTTCAC 59
+               || || || ||||| | ||||||||||||
+Sbjct:   12002 TTGGTTTTAAATAAGTACAAGAATTTCAC 11974
+
+RDN18-SDRNA-15
+gi|330443531|ref|NC_001137.3| Saccharomyces cerevisiae S288C chromosome V, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 23
+Query:      38 TCAATAAATCCAAGAATTTCACC 60
+               ||||||  || ||||||||||||
+Sbjct:  405289 TCAATA--TCAAAGAATTTCACC 405309
+
+RDN18-SDRNA-18
+gi|330443638|ref|NC_001142.9| Saccharomyces cerevisiae S288C chromosome X, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 26
+Query:      19 TCTAATTTTTTCAAAGTAAAAGTCCT 44
+               |||| || ||||||||||||  ||||
+Sbjct:  421236 TCTAGTTCTTTCAAAGTAAACTTCCT 421261
+
+RDN18-SDRNA-18
+gi|330443590|ref|NC_001140.6| Saccharomyces cerevisiae S288C chromosome VIII, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 27
+Query:      10 TTTGAACACTCTAATTTTTTCAAAGTA 36
+               ||||||||    ||| |||||||||||
+Sbjct:  357998 TTTGAACATGAGAATATTTTCAAAGTA 358024
+
+RDN18-SDRNA-20
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 36 (33 bits), expectation 3.2e-02, alignment length 23
+Query:      20 CAAAGTTCAACTACGAGCTTTTT 42
+               ||||||||  |||||||||||||
+Sbjct:  181771 CAAAGTTCTTCTACGAGCTTTTT 181793
+
+RDN18-SDRNA-20
+gi|330443578|ref|NC_001139.9| Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 27
+Query:      31 TACGAGCTTTTTAACTGCAACAACTTT 57
+               || |||||||||||  ||| || ||||
+Sbjct:  314398 TAAGAGCTTTTTAAAAGCATCATCTTT 314372
+
+RDN18-SDRNA-20
+gi|330443578|ref|NC_001139.9| Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 22
+Query:      20 CAAAGTTCAACTACGAGCTTTT 41
+               |||||||  | |||||||||||
+Sbjct: 1055229 CAAAGTTTGATTACGAGCTTTT 1055208
+
+RDN18-SDRNA-21
+gi|330443482|ref|NC_001134.8| Saccharomyces cerevisiae S288C chromosome II, complete sequence
+Score 35 (32 bits), expectation 1.1e-01, alignment length 28
+Query:      17 GGAATTACCGCGGCTGCTGGCACCAGAC 44
+               |||||||    |||||||||||||||||
+Sbjct:  650983 GGAATTA----GGCTGCTGGCACCAGAC 651006
+
+RDN18-SDRNA-21
+gi|330443531|ref|NC_001137.3| Saccharomyces cerevisiae S288C chromosome V, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 21
+Query:      39 CCAGA-CTTGCCCTCCAATTG 58
+               ||||| | |||||||||||||
+Sbjct:  549374 CCAGAACGTGCCCTCCAATTG 549354
+
+RDN18-SDRNA-22
+gi|330443715|ref|NC_001146.8| Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:      11 GTATTTACATTGTACTCATTCCAA 34
+               |||||||||||| ||  |||| ||
+Sbjct:   18209 GTATTTACATTGAACATATTCGAA 18232
+
+RDN18-SDRNA-27
+gi|330443578|ref|NC_001139.9| Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+Score 30 (28 bits), expectation 1.4e+00, alignment length 25
+Query:      15 TTGATTTTTTATCTAATAAATACAT 39
+               |||||| ||||   |||||||||||
+Sbjct:  329381 TTGATTGTTTAAAGAATAAATACAT 329405
+
+RDN18-SDRNA-28
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 30 (28 bits), expectation 1.4e+00, alignment length 36
+Query:      18 CTAGAATTACCACAGTTATACCATGTAGTAAAGGAA 53
+               |||||||||||||| ||   || | |  ||||||||
+Sbjct:  129471 CTAGAATTACCACATTT---CCTTTTTCTAAAGGAA 129503
+
+RDN18-SDRNA-29
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 36 (33 bits), expectation 3.2e-02, alignment length 23
+Query:       1 ATAAACGATAACTGATTTAATGA 23
+               |||||  ||||||||||||||||
+Sbjct:  718730 ATAAAAAATAACTGATTTAATGA 718708
+
+RDN18-SDRNA-29
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:      34 GTTTCACTGTATAAATTGCTTATA 57
+               |||| ||  || ||||||||||||
+Sbjct:  331972 GTTTAACAATAAAAATTGCTTATA 331995
+
+RDN25-SDRNA-4
+gi|330443482|ref|NC_001134.8| Saccharomyces cerevisiae S288C chromosome II, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 24
+Query:      29 CTTATTCGTATCCATCTATATTGT 52
+               ||| |||||||||||| || ||||
+Sbjct:   42183 CTTCTTCGTATCCATCGAT-TTGT 42161
+
+RDN25-SDRNA-5
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 26
+Query:      21 CATGGATTCTGACTTAGAGGCGTTCA 46
+               ||||||||||||| |   ||||||||
+Sbjct:  524507 CATGGATTCTGACATTTCGGCGTTCA 524532
+
+RDN25-SDRNA-5
+gi|330443578|ref|NC_001139.9| Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+Score 30 (28 bits), expectation 1.4e+00, alignment length 25
+Query:      16 TCTAGCATGGATTCTGACTTAGAGG 40
+               ||||| ||   ||||||||||||||
+Sbjct:  684899 TCTAGAATTATTTCTGACTTAGAGG 684875
+
+RDN25-SDRNA-7
+gi|330443531|ref|NC_001137.3| Saccharomyces cerevisiae S288C chromosome V, complete sequence
+Score 31 (29 bits), expectation 1.4e+00, alignment length 23
+Query:      11 CGTACTAAGTTCAATTACTATTG 33
+               ||||||||||| ||||| || ||
+Sbjct:  188080 CGTACTAAGTTTAATTAATAGTG 188058
+
+RDN25-SDRNA-9
+gi|330443543|ref|NC_001138.5| Saccharomyces cerevisiae S288C chromosome VI, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 26
+Query:      34 AAGAGCCGACATCGAAGAATCAAAAA 59
+               |||| || | ||| ||||||||||||
+Sbjct:   82556 AAGAACC-ATATCCAAGAATCAAAAA 82580
+
+RDN25-SDRNA-12
+gi|330443578|ref|NC_001139.9| Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 22
+Query:       4 TCACACTGAAAATCAAAATCAA 25
+               ||| | | ||||||||||||||
+Sbjct:  431752 TCAAAATCAAAATCAAAATCAA 431731
+
+RDN25-SDRNA-12
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 22
+Query:      34 TTACCCTTTTGTTCTACTGGAG 55
+               ||| ||||||||||| | ||||
+Sbjct:  475239 TTATCCTTTTGTTCTTCAGGAG 475260
+
+RDN25-SDRNA-15
+gi|330443543|ref|NC_001138.5| Saccharomyces cerevisiae S288C chromosome VI, complete sequence
+Score 30 (28 bits), expectation 1.4e+00, alignment length 40
+Query:      21 TTCCAGCTCCGCTTCATTGAATAAGTAAAGAAACTATAAA 60
+               ||||| ||| |   |||||||||||| ||  ||| || ||
+Sbjct:  230648 TTCCAACTCTGAAGCATTGAATAAGTTAATCAACGATGAA 230687
+
+RDN25-SDRNA-15
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 21
+Query:      36 ATTGAATAAGTAAAGAAACTA 56
+               |||||| ||||||||||| ||
+Sbjct:  120341 ATTGAAAAAGTAAAGAAAATA 120321
+
+RDN25-SDRNA-15
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 30 (28 bits), expectation 1.4e+00, alignment length 25
+Query:      21 TTCCAGCTCCGCTTCATTGAATAAG 45
+               ||| ||  || ||||||||||||||
+Sbjct:  815201 TTCTAGTCCCTCTTCATTGAATAAG 815177
+
+RDN25-SDRNA-18
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 33 (31 bits), expectation 3.9e-01, alignment length 28
+Query:      24 CTAGAT-AGT-AGATAGGGACAGTGGGA 49
+               |||||| ||| ||||| |||||||||||
+Sbjct:  778599 CTAGATCAGTTAGATATGGACAGTGGGA 778626
+
+RDN25-SDRNA-18
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 31 (29 bits), expectation 1.4e+00, alignment length 27
+Query:      26 AGATAGTAGATAGG--GACAGTGGGAA 50
+               ||||||||||||||  || ||||| ||
+Sbjct:   83423 AGATAGTAGATAGGACGATAGTGGAAA 83449
+
+RDN25-SDRNA-20
+gi|330443482|ref|NC_001134.8| Saccharomyces cerevisiae S288C chromosome II, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 23
+Query:       9 GCCGTT--TACCCGCGCTTGGTT 29
+               ||||||  |||||||||||| ||
+Sbjct:   69666 GCCGTTATTACCCGCGCTTGATT 69644
+
+RDN25-SDRNA-20
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 21
+Query:      33 TTTCTTCACTTTG--ACATTC 51
+               |||||||||||||  ||||||
+Sbjct:  189717 TTTCTTCACTTTGGCACATTC 189737
+
+RDN25-SDRNA-21
+gi|330443489|ref|NC_001135.5| Saccharomyces cerevisiae S288C chromosome III, complete sequence
+Score 37 (34 bits), expectation 3.2e-02, alignment length 21
+Query:       3 CAGAAATCACATTGCGTCAAC 23
+               ||||||||| |||||||||||
+Sbjct:  248571 CAGAAATCAAATTGCGTCAAC 248591
+
+RDN25-SDRNA-22
+gi|330443531|ref|NC_001137.3| Saccharomyces cerevisiae S288C chromosome V, complete sequence
+Score 36 (33 bits), expectation 3.2e-02, alignment length 32
+Query:      25 ACCAGTTCTAAGTTGATCGTTAATTGTAGCAA 56
+               ||||||| | |||| |  ||||||||||||||
+Sbjct:  272583 ACCAGTTATTAGTTAA--GTTAATTGTAGCAA 272612
+
+RDN25-SDRNA-22
+gi|330443743|ref|NC_001147.6| Saccharomyces cerevisiae S288C chromosome XV, complete sequence
+Score 31 (29 bits), expectation 1.4e+00, alignment length 23
+Query:      30 TTCTAAGTTGATCGTTAATTGTA 52
+               |||||||||||| ||| || |||
+Sbjct:  212717 TTCTAAGTTGATAGTTGATCGTA 212695
+
+RDN25-SDRNA-23
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 22
+Query:       8 CAAGAGACCTACCAAGGCCGTC 29
+               ||||||||||||||  || |||
+Sbjct:  680255 CAAGAGACCTACCACAGCTGTC 680276
+
+RDN25-SDRNA-25
+gi|330443638|ref|NC_001142.9| Saccharomyces cerevisiae S288C chromosome X, complete sequence
+Score 59 (54 bits), expectation 3.4e-08, alignment length 42
+Query:      16 GCCAATCCTTATCCCGAAGTTACGGATCTATTTTGCCGACTT 57
+               |||||||||||||||||| |||||||| ||||  ||| ||||
+Sbjct:  518467 GCCAATCCTTATCCCGAAATTACGGATGTATTCAGCCAACTT 518508
+
+RDN25-SDRNA-25
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 23
+Query:      37 ACGGATCTATTTTGCCGACTTCC 59
+               |||| |||||||||||  |||||
+Sbjct:  362784 ACGGGTCTATTTTGCC--CTTCC 362764
+
+RDN25-SDRNA-26
+gi|330443638|ref|NC_001142.9| Saccharomyces cerevisiae S288C chromosome X, complete sequence
+Score 53 (49 bits), expectation 1.5e-06, alignment length 29
+Query:       2 TATCTACATTATTCTATCAACTAGAGGCT 30
+               ||||||||||||||| |||||||||||||
+Sbjct:  518513 TATCTACATTATTCTGTCAACTAGAGGCT 518541
+
+RDN25-SDRNA-26
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 37 (34 bits), expectation 3.2e-02, alignment length 21
+Query:       1 TTATCTACATTATTCTATCAA 21
+               |||| ||||||||||||||||
+Sbjct:  673505 TTATTTACATTATTCTATCAA 673485
+
+RDN25-SDRNA-26
+gi|330443590|ref|NC_001140.6| Saccharomyces cerevisiae S288C chromosome VIII, complete sequence
+Score 34 (31 bits), expectation 1.1e-01, alignment length 22
+Query:      13 TTCTATCAACTAGAGGCTGTTC 34
+               |||| | |||||||||||||||
+Sbjct:  351453 TTCTTTAAACTAGAGGCTGTTC 351432
+
+RDN25-SDRNA-27
+gi|330443715|ref|NC_001146.8| Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 21
+Query:      10 GGCATGAAAACTATTCCTTCC 30
+               |||||||||||| || |||||
+Sbjct:  384211 GGCATGAAAACTGTTTCTTCC 384191
+
+RDN25-SDRNA-29
+gi|330443482|ref|NC_001134.8| Saccharomyces cerevisiae S288C chromosome II, complete sequence
+Score 33 (31 bits), expectation 3.9e-01, alignment length 28
+Query:      22 AAGAAGAAAAGATAACTC--CTCCCAGG 47
+               |||||||||||| |||||  | ||||||
+Sbjct:  571918 AAGAAGAAAAGAGAACTCTGCACCCAGG 571891
+
+RDN25-SDRNA-29
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 21
+Query:      22 AAGAAGAAAAGATAA-CTCCT 41
+               |||||||||||| || |||||
+Sbjct:  811869 AAGAAGAAAAGAAAACCTCCT 811849
+
+RDN25-SDRNA-30
+gi|330443715|ref|NC_001146.8| Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 21
+Query:       1 TCTCCACATTCAGTTACGTTA 21
+               ||| |||||||||||| ||||
+Sbjct:  285901 TCTTCACATTCAGTTA-GTTA 285882
+
+RDN25-SDRNA-31
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 34 (31 bits), expectation 1.1e-01, alignment length 22
+Query:      27 AAAATCAGGCCTTTGAAACGGA 48
+               ||||||||||||| |||| |||
+Sbjct:  349746 AAAATCAGGCCTTCGAAAAGGA 349767
+
+RDN25-SDRNA-32
+gi|330443595|ref|NC_001141.2| Saccharomyces cerevisiae S288C chromosome IX, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 21
+Query:      17 CCACGTCCAACTGCTGTTGAC 37
+               ||| ||||||||||||| |||
+Sbjct:  112667 CCATGTCCAACTGCTGTAGAC 112687
+
+RDN25-SDRNA-32
+gi|330443595|ref|NC_001141.2| Saccharomyces cerevisiae S288C chromosome IX, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 29
+Query:      24 CAACTGCTGTTGACGTGG-AACCTTTCCC 51
+               ||||||||||||  | || |||||| |||
+Sbjct:  383852 CAACTGCTGTTGTTGCGGCAACCTTCCCC 383880
+
+RDN25-SDRNA-33
+gi|330443743|ref|NC_001147.6| Saccharomyces cerevisiae S288C chromosome XV, complete sequence
+Score 40 (37 bits), expectation 2.6e-03, alignment length 37
+Query:       3 TCAAAGTTCTCATTTGAATATTTGCTACTACCACCAA 39
+               ||||||||  || | ||||||||||||| |||| |||
+Sbjct:   93253 TCAAAGTTAACACTAGAATATTTGCTAC-ACCATCAA 93218
+
+RDN25-SDRNA-36
+gi|330443531|ref|NC_001137.3| Saccharomyces cerevisiae S288C chromosome V, complete sequence
+Score 31 (29 bits), expectation 1.4e+00, alignment length 23
+Query:       7 TCATTCGGCCGGTGAGTTGTTAC 29
+               || || | |||||||||||||||
+Sbjct:  364288 TCTTTTGCCCGGTGAGTTGTTAC 364310
+
+RDN25-SDRNA-37
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 30 (28 bits), expectation 1.4e+00, alignment length 22
+Query:      28 CACCTTTTGTGGTGTCTGATGA 49
+               ||||||||||||||  ||||||
+Sbjct:  210799 CACCTTTTGTGGTG-ATGATGA 210819
+
+RDN25-SDRNA-37
+gi|330443578|ref|NC_001139.9| Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:       3 CCGTCCGGCTGTCTAGATGAACTA 26
+               || || |||||||||||  |||||
+Sbjct:   36967 CCATCAGGCTGTCTAGAAAAACTA 36944
+
+RDN25-SDRNA-40
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 22
+Query:      14 GAATAGGTCAAGGTCATTTCGA 35
+               || |||| | ||||||||||||
+Sbjct:  782815 GATTAGGACGAGGTCATTTCGA 782836
+
+RDN25-SDRNA-40
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 27
+Query:       6 AAGTTTGAGAATAGGTCAAGGTCATTT 32
+               ||||||||||||    || ||||||||
+Sbjct:  399149 AAGTTTGAGAATCATCCACGGTCATTT 399175
+
+RDN25-SDRNA-44
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 28
+Query:      31 TCTTACTCAAATCCATCCGAAGACATCA 58
+               ||||  ||||||||||||| ||| ||||
+Sbjct:  601991 TCTTGGTCAAATCCATCCG-AGAGATCA 602017
+
+RDN25-SDRNA-46
+gi|330443578|ref|NC_001139.9| Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 25
+Query:       9 CACCCAAACACTCGCATAGACGTTA 33
+               ||||||||||| ||||   ||||||
+Sbjct: 1007527 CACCCAAACACGCGCA---ACGTTA 1007506
+
+RDN25-SDRNA-48
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:      22 ATACTTACCGAGGCAAGCTACATT 45
+               |||| |||  | ||||||||||||
+Sbjct:  459793 ATACGTACATATGCAAGCTACATT 459770
+
+RDN25-SDRNA-48
+gi|330443715|ref|NC_001146.8| Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:       2 CAGTATTCCCACAGGCTATAATAC 25
+               ||||| | |||  |||||||||||
+Sbjct:  265376 CAGTAATACCATGGGCTATAATAC 265353
+
+RDN25-SDRNA-51
+gi|330443531|ref|NC_001137.3| Saccharomyces cerevisiae S288C chromosome V, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 25
+Query:       1 TTCACTCTCTTTTCAAAGTTCTTTT 25
+               |||||||| |||  |||||||||||
+Sbjct:  562244 TTCACTCTGTTT--AAAGTTCTTTT 562222
+
+RDN25-SDRNA-51
+gi|330443715|ref|NC_001146.8| Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+Score 31 (29 bits), expectation 1.4e+00, alignment length 23
+Query:      21 CTTTTCATCTTTCCATCACTGTA 43
+               ||||||||||||||  |||| ||
+Sbjct:  267552 CTTTTCATCTTTCCCCCACTATA 267530
+
+RDN25-SDRNA-51
+gi|330443753|ref|NC_001148.4| Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:       8 TCTTTTCAAAGTTCTTTTCATCTT 31
+               || ||||||||||| | | |||||
+Sbjct:   12115 TCGTTTCAAAGTTCATCTTATCTT 12092
+
+RDN25-SDRNA-51
+gi|330443667|ref|NC_001143.9| Saccharomyces cerevisiae S288C chromosome XI, complete sequence
+Score 30 (28 bits), expectation 1.4e+00, alignment length 29
+Query:      10 TTTTCA--AAGTTCTTTTCATCTTTCCAT 36
+               ||||||  |||||||||| | || |||||
+Sbjct:  425280 TTTTCAGAAAGTTCTTTTAAACTCTCCAT 425308
+
+RDN25-SDRNA-51
+gi|330443489|ref|NC_001135.5| Saccharomyces cerevisiae S288C chromosome III, complete sequence
+Score 30 (28 bits), expectation 1.4e+00, alignment length 25
+Query:      13 TCAAAGTTCTTTTCATCTTTCCATC 37
+               |||||||||||||  | ||| ||||
+Sbjct:  173855 TCAAAGTTCTTTTTGTGTTTACATC 173879
+
+RDN25-SDRNA-51
+gi|330443743|ref|NC_001147.6| Saccharomyces cerevisiae S288C chromosome XV, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:       8 TCTTTTCAAAGTTCTTTTCATCTT 31
+               || ||||||||||| | | |||||
+Sbjct: 1079030 TCGTTTCAAAGTTCATCTTATCTT 1079053
+
+RDN25-SDRNA-51
+gi|330443578|ref|NC_001139.9| Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:       1 TTCACTCTCTTTTCAAAGTTCTTT 24
+               |||||||||||  | | |||||||
+Sbjct:  980413 TTCACTCTCTTCACCATGTTCTTT 980436
+
+RDN25-SDRNA-52
+gi|330443543|ref|NC_001138.5| Saccharomyces cerevisiae S288C chromosome VI, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 22
+Query:       3 TCGCCAATATTTAGCTTTAGAT 24
+               |||||  ||||||||||| |||
+Sbjct:  109945 TCGCCTTTATTTAGCTTTCGAT 109966
+
+RDN25-SDRNA-53
+gi|330443482|ref|NC_001134.8| Saccharomyces cerevisiae S288C chromosome II, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 23
+Query:       9 TCTTCGAAGGCACTTTACAAAGA 31
+               |||| ||||||||||| ||||||
+Sbjct:  108245 TCTTGGAAGGCACTTT-CAAAGA 108266
+
+RDN25-SDRNA-53
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 31 (29 bits), expectation 1.4e+00, alignment length 25
+Query:      19 CACTTTACAAAGAACCGCACTCCTC 43
+               || |||| |||| ||||||||||||
+Sbjct:  579040 CAATTTA-AAAGTACCGCACTCCTC 579017
+
+RDN25-SDRNA-53
+gi|330443743|ref|NC_001147.6| Saccharomyces cerevisiae S288C chromosome XV, complete sequence
+Score 28 (26 bits), expectation 4.8e+00, alignment length 24
+Query:       9 TCTTCGAAGGCACTTTACAAAGAA 32
+               |||||||| |   |||||||||||
+Sbjct:   99575 TCTTCGAACGGCTTTTACAAAGAA 99552
+
+RDN25-SDRNA-56
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 32 (30 bits), expectation 3.9e-01, alignment length 21
+Query:      25 GTTGGTTTCTTTTCCTCCGCT 45
+               |||| |||||||||||| |||
+Sbjct:  767116 GTTGCTTTCTTTTCCTCTGCT 767136
+
+RDN25-SDRNA-56
+gi|330443391|ref|NC_001133.9| Saccharomyces cerevisiae S288C chromosome I, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 21
+Query:      19 ATCCC--GGTTGGTTTCTTTT 37
+               |||||  ||||||||||||||
+Sbjct:   90350 ATCCCAGGGTTGGTTTCTTTT 90370
+
+RDN58-SDRNA-1
+gi|597900342|ref|NR_111007.1| Saccharomyces cerevisiae CBS 1171 ITS region; from TYPE material
+Score 111 (101 bits), expectation 2.6e-22, alignment length 60
+Query:       1 AAATGACGCTCAAACAGGCATGCCCCCTGGAATACCAAGGGGCGC...AAG 60
+               |||||||||||||||||||||||||||||||||||||||||| ||...|||
+Sbjct:     520 AAATGACGCTCAAACAGGCATGCCCCCTGGAATACCAAGGGG-GC...AAG 462
+
+RDN58-SDRNA-2
+gi|597900342|ref|NR_111007.1| Saccharomyces cerevisiae CBS 1171 ITS region; from TYPE material
+Score 120 (109 bits), expectation 5.1e-25, alignment length 60
+Query:       1 ATTCGATGATTCACGGAATTCTGCAATTCACATTACGTATCGCAT...TTC 60
+               |||||||||||||||||||||||||||||||||||||||||||||...|||
+Sbjct:     461 ATTCGATGATTCACGGAATTCTGCAATTCACATTACGTATCGCAT...TTC 402
+
+RDN58-SDRNA-2
+gi|330443743|ref|NC_001147.6| Saccharomyces cerevisiae S288C chromosome XV, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 26
+Query:       2 TTCGATGATTCACGGAATTCTGCAAT 27
+               |||||||||||  |||||  ||||||
+Sbjct:  154187 TTCGATGATTCTAGGAAT--TGCAAT 154164
+
+RDN58-SDRNA-3
+gi|597900342|ref|NR_111007.1| Saccharomyces cerevisiae CBS 1171 ITS region; from TYPE material
+Score 120 (109 bits), expectation 5.1e-25, alignment length 60
+Query:       1 ATCGCATTTCGCTGCGTTCTTCATCGATGCGAGAACCAAGAGATC...TTT 60
+               |||||||||||||||||||||||||||||||||||||||||||||...|||
+Sbjct:     423 ATCGCATTTCGCTGCGTTCTTCATCGATGCGAGAACCAAGAGATC...TTT 364
+
+RDN58-SDRNA-3
+gi|330443531|ref|NC_001137.3| Saccharomyces cerevisiae S288C chromosome V, complete sequence
+Score 29 (27 bits), expectation 4.8e+00, alignment length 21
+Query:      21 TCATCGATGCGAGAACCAAGA 41
+               |||||  ||||||||||||||
+Sbjct:  202571 TCATC--TGCGAGAACCAAGA 202553
+
+RDN5-SDRNA-1
+gi|330443520|ref|NC_001136.10| Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+Score 34 (31 bits), expectation 1.1e-01, alignment length 22
+Query:      26 ATGGTCACCCACTACACTACTC 47
+               || |||||| ||||||||||||
+Sbjct: 1297333 ATTGTCACCGACTACACTACTC 1297312
+
